@@ -7,13 +7,12 @@
 
 <div align="center">
 
-<a href="https://opendata.cern.ch/record/15003">
-  <img src="https://img.shields.io/badge/ATLAS-Open%20Data-6930c3?style=for-the-badge" alt="ATLAS Open Data">
-</a>
-<img src="https://img.shields.io/badge/Domain-Particle%20Physics-5e60ce?style=for-the-badge" alt="Particle Physics">
-<img src="https://img.shields.io/badge/Channel-Z%20Boson%20to%20Dimuons-8e44ad?style=for-the-badge" alt="Z boson to dimuons">
-<img src="https://img.shields.io/badge/Python-Scientific%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Scientific Analysis">
-<img src="https://img.shields.io/badge/Tools-Uproot%20%7C%20SciPy%20%7C%20NumPy-2e8b57?style=for-the-badge" alt="Uproot SciPy NumPy">
+![Particle Physics](https://img.shields.io/badge/Particle_Physics-ATLAS_Open_Data-5e60ce?style=for-the-badge)
+![Z Boson](https://img.shields.io/badge/Analysis-Z_Boson_%E2%86%92_Dimuons-6930c3?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Scientific_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tools](https://img.shields.io/badge/Tools-Uproot_%7C_SciPy_%7C_NumPy-2e8b57?style=for-the-badge)
+
+**13 TeV Collision Data** · **10 fb⁻¹** · **Dimuon Resonance**
 
 </div>
 
