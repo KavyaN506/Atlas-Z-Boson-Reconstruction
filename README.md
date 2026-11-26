@@ -4,7 +4,19 @@
 
 ### Reproducible Dimuon Resonance Analysis with ATLAS Open Data
 
-![Particle Physics](https://img.shields.io/badge/Physics-Particle%20Physics-5e60ce?style=for-the-badge)
+
+<div align="center">
+
+<a href="https://opendata.cern.ch/record/15003">
+  <img src="https://img.shields.io/badge/ATLAS-Open%20Data-6930c3?style=for-the-badge" alt="ATLAS Open Data">
+</a>
+<img src="https://img.shields.io/badge/Domain-Particle%20Physics-5e60ce?style=for-the-badge" alt="Particle Physics">
+<img src="https://img.shields.io/badge/Channel-Z%20Boson%20to%20Dimuons-8e44ad?style=for-the-badge" alt="Z boson to dimuons">
+<img src="https://img.shields.io/badge/Python-Scientific%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Scientific Analysis">
+<img src="https://img.shields.io/badge/Tools-Uproot%20%7C%20SciPy%20%7C%20NumPy-2e8b57?style=for-the-badge" alt="Uproot SciPy NumPy">
+
+</div>
+
 ![ATLAS Open Data](https://img.shields.io/badge/Data-ATLAS%20Open%20Data-6930c3?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Scientific%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
