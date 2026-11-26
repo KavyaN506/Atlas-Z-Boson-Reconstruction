@@ -121,7 +121,7 @@ displayed spectrum.
 atlas-z-boson-reconstruction/
 ├── README.md
 ├── notebooks/
-│   └── atlas_z_dimuon_analysis.ipynb
+│   └── ATLAS_Z_Boson_Reconstruction.ipynb
 └── figures/
     ├── atlas_z_dimuon_mass_spectrum.png
     └── atlas_z_fit_residuals_pulls.png
