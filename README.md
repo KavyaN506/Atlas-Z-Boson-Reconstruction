@@ -5,17 +5,6 @@
 ### Reproducible Dimuon Resonance Analysis with ATLAS Open Data
 
 
-<div align="center">
-
-![Particle Physics](https://img.shields.io/badge/Particle_Physics-ATLAS_Open_Data-5e60ce?style=for-the-badge)
-![Z Boson](https://img.shields.io/badge/Analysis-Z_Boson_%E2%86%92_Dimuons-6930c3?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Scientific_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tools](https://img.shields.io/badge/Tools-Uproot_%7C_SciPy_%7C_NumPy-2e8b57?style=for-the-badge)
-
-**13 TeV Collision Data** · **10 fb⁻¹** · **Dimuon Resonance**
-
-</div>
-
 ![ATLAS Open Data](https://img.shields.io/badge/Data-ATLAS%20Open%20Data-6930c3?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Scientific%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
